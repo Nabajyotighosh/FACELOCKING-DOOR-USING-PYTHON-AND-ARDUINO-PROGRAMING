@@ -13,9 +13,11 @@
 1.ARDUINO
 
 <img src="12/1.jpeg" width=400 height=200>
+
 2.SERVO MOTOR
 
 <img src="12/4.jpg" width=400 height=200>
+
 <h1>Required library</h1>
 
 1.Open-Cv
