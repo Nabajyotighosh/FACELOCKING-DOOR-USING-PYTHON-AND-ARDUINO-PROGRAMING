@@ -29,5 +29,5 @@
 
 4.numpy
 
-View on Github:-
+*View on Github:-*
 [Project File](https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing)
