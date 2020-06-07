@@ -12,7 +12,7 @@
 <h1>Required Component</h1>
 1.ARDUINO
 
-![]("12/1.jpeg")
+<img src="12/1.jpeg" width=400 height=200>
 
 2.SERVO MOTOR
 
