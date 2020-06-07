@@ -9,7 +9,7 @@
 
 ->>Arduino has been used for show the Demo of the Door.
 
-<h2>Required Component</h3>
+<h1>Required Component</h1>
 1.ARDUINO
 
 ![Logo](/12/1.jpeg)
