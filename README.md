@@ -1,7 +1,7 @@
 <h1>Welcome to Nabjyoti's GitHub Page</h1>
 ->>The project has been made to make door more protective.
 
-->>User can use their face to unlock the door.
+->>User can use their face to unlock the door
 
 ->>It can be used smoothly
 
