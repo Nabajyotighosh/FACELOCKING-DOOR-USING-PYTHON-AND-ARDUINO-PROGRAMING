@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<h1>Welcome to Nabjyoti's GitHub Page</h1>
+->>The project has been made to make door more protective.
 
-You can use the [editor on GitHub](https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+->>User can use their face to unlock the door.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+->>It can be used smoothly
 
-### Markdown
+->>The code has been made using Python language and C Language in Arduino
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+->>Arduino has been used for show the Demo of the Door.
 
-```markdown
-Syntax highlighted code block
+<h1>Required Component</h1>
+1.ARDUINO
 
-# Header 1
-## Header 2
-### Header 3
+<img src="12/1.jpeg" width=400 height=200>
+2.SERVO MOTOR
 
-- Bulleted
-- List
+<img src="12/4.jpg" width=400 height=200>
+<h1>Required library</h1>
 
-1. Numbered
-2. List
+1.Open-Cv
 
-**Bold** and _Italic_ and `Code` text
+2.Pyserial
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3.Pyttsx3
