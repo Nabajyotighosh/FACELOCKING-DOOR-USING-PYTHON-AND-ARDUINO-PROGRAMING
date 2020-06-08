@@ -12,11 +12,11 @@
 <h1>Required Component</h1>
 1.ARDUINO
 
-![Logo](/12/1.jpeg =200x200)
+![Logo](/12/1.jpeg)
 
 2.SERVO MOTOR
 
-![Logo](/12/4.jpg)
+![Logo](https://i.pinimg.com/236x/74/78/07/747807f25fc122cc42a5408ba96474d8.jpg)
 
 
 <h1>Required library</h1>
