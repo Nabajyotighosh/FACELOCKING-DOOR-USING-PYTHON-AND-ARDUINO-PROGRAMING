@@ -12,11 +12,11 @@
 <h1>REQUIRED COMPONENT</h1>
 1.ARDUINO UNO
 
-![Logo](/12/1.jpeg)
+![Logo](/photo/23.JPG)
 
 2.SERVO MOTOR
 
-![Logo](/12/4.jpg)
+![Logo](/photo/25.JPG)
 
 
 <h1>REQUIRED LIBRARAY</h1>
