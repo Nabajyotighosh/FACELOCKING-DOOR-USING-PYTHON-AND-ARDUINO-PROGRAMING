@@ -36,7 +36,7 @@
     Arduino must be connected to Pc through arduino Cable. 
    
    ![Logo](/circuitdiagram.JPG)
- **WORKING FUNCTION**
+ **FUNCTIONAL PREVIEW**
  
  ->> At first the python code will be write on any of the python IDE than arduino code will be uploaded to arduino Uno board using 
  arduino IDE and then Run the  1st python code it will collect the sample pictures and then run 2nd code  and it will start the webcam and take pictures , if the picture match with database upto 83% then it will send a charecter to the arduino and arduino will move the servo motor for 5 seconds.
