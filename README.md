@@ -16,7 +16,7 @@
 
 2.SERVO MOTOR
 
-![Logo](https://i.pinimg.com/236x/74/78/07/747807f25fc122cc42a5408ba96474d8.jpg)
+![Logo](/12/4.jpg)
 
 
 <h1>Required library</h1>
@@ -28,6 +28,14 @@
 3.Pyttsx3
 
 4.numpy
+
+**Circuit Diagram**
+
+->>The circuit Diagram is given below .The Servo Motor Signal Pin will be Connected to the arduino Pwm Pin Number 9.
+    The 5V pin will be connected to Arduino 5v pin and Ground pin will be connected to Arduino Ground pin.
+    Arduino must be connected to Pc through arduino Cable.
+    
+    ![Logo](/Circuit Diagram.jpg)
 
 *View on Github:-*
 [Project File](https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing)
