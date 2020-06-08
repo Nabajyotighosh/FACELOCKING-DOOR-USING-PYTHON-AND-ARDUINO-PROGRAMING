@@ -12,7 +12,7 @@
 <h1>Required Component</h1>
 1.ARDUINO
 
-![Logo](https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing/tree/master/12/1.jpeg/200/200)
+![Logo](/12/1.jpeg =200x200)
 
 2.SERVO MOTOR
 
