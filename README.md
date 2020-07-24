@@ -45,4 +45,4 @@
 [Project File](https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing)
 
 *Project video link:-*
-[videp link](https://youtu.be/eek2VaRbU78)
+[video link](https://youtu.be/eek2VaRbU78)
